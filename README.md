@@ -4,67 +4,35 @@
 Software Developer | Web Developer
 </h3>
 
----
-
+<p align="center">
+Passionate about developing web-based information systems using PHP, JavaScript, and MySQL.
+</p>
 ## 👨‍💻 About Me
 
-I'm a Diploma III Computer Engineering student at Sriwijaya State Polytechnic with a strong passion for software development and information systems.
+Diploma III Computer Engineering student at Sriwijaya State Polytechnic with experience in developing web-based information systems.
 
-I have experience developing web-based applications using **PHP, JavaScript, HTML, CSS, and MySQL**, including HR Recruitment Systems, E-Commerce platforms, Campus Information Systems, and E-Government applications.
+Interested in Software Development, Backend Development, Database Design, and Information Systems.
 
-I enjoy solving real-world problems through technology and continuously improving my programming, database, and software development skills.
+Experienced in building HR Recruitment Systems, E-Commerce Websites, Campus Information Systems, and E-Government Applications.
 
----
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 💻 Tech Stack
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Programming Languages
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,html,css,js,python" />
-</p>
+## 🎓 Education
 
-### Database
+**Sriwijaya State Polytechnic**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+Diploma III in Computer Engineering
 
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,tailwind,bootstrap,vscode,figma" />
-</p>
-
-### Cloud & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=railway" />
-</p>
-
----
-
-## 🏆 Achievements
-
-- 🥈 Finalist — Indonesian Polytechnic Informatics Student Competition VI (E-Government)
-- 🥈 Finalist — IT Fest Web Design Competition
-- 🏅 PHP Level 3 Certification (Top 50%)
-- ☁️ Cloud Practitioner Essentials – Dicoding
-- 🛡️ Hacking Countermeasure – IT Masters (Charles Sturt University)
-- 🌐 Network Certification Essentials – IT Masters (Charles Sturt University)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Darren0099&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darren0099&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-- 📧 **Email:** **almanraffli1@gmail.com**
-- 💼 **LinkedIn:** https://www.linkedin.com/in/al-man-raffli
+2023 – Present
