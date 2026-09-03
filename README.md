@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Al-Man Raffli Saputra</h1>
 
-<h3 align="center">Software Developer | Web Developer</h3>
+<h3 align="center">Software Developer | Web Developer | Data Analyst</h3>
 
 <p align="center">
 A Diploma III Computer Engineering student at <b>Sriwijaya State Polytechnic</b> with experience in developing web-based information systems using PHP, JavaScript, HTML, CSS, and MySQL. Passionate about software development, database management, and building practical solutions for real-world problems.
