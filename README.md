@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Al-Man Raffli Saputra</h1>
 
 <h3 align="center">Software Developer | Web Developer | Data Analyst</h3>
@@ -17,11 +19,11 @@ A Diploma III Computer Engineering student at <b>Sriwijaya State Polytechnic</b>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ### Database
@@ -65,29 +67,19 @@ Diploma III in Computer Engineering
 - 🥇 PHP Level 3 Certification (Top 50%) – CredMark
 - 🛡️ Hacking Countermeasure – IT Masters, Charles Sturt University
 - 🌐 Network Certification Essentials – IT Masters, Charles Sturt University
-- 💻 Cyber Defence Strategies – IT Masters, Charles Sturt University
+- 💻 Cyber Defence StrategieS – IT Masters, Charles Sturt University
 - ☁️ Cloud Practitioner Essentials – Dicoding
 
 ---
-
-# 🤝 Contributions & Activity
-
-<!-- Animasi Snake Eating Contributions (Di-generate otomatis oleh GitHub Action) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Darren0099/Darren0099/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darren0099&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Darren0099&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darren0099&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Darren0099&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darren0099&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Darren0099&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -95,10 +87,14 @@ Diploma III in Computer Engineering
 # 📫 Connect with Me
 
 <p>
+
 <a href="https://www.linkedin.com/in/al-man-raffli">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:almanraffli1@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
+
