@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer | Data Analyst | Graphic Designer</h3>
 
 <p align="center">
-A Diploma III Computer Engineering student at <b>Sriwijaya State Polytechnic</b> who builds web-based information systems with PHP, React, and Next.js, turns raw data into business insights with Python and Looker Studio, and designs visual identities for youth organizations. Finalist at <b>KMIPN VI</b> (E-Government) and active in community, design, and HR work.
+A Diploma III Computer Engineering graduate of <b>Sriwijaya State Polytechnic</b> (2026) who builds web-based information systems with PHP, React, and Next.js, turns raw data into business insights with Python and Looker Studio, and designs visual identities for youth organizations. Finalist at <b>KMIPN VI</b> (E-Government) and active in community, design, and HR work.
 </p>
 
 ---
@@ -96,9 +96,9 @@ A Diploma III Computer Engineering student at <b>Sriwijaya State Polytechnic</b>
 - 🌐 **2024** — Web Volunteer, VALTER V (Multimedia & Computer Festival)
 - 🎤 **2025** — Speaker, Study Jam "Basic CSS Animation" (GDSC POLSRI)
 - 🚀 **2025** — Participant & project developer, KMIPN VII Padang
-- 👥 **2025** — Head of Human Resource, Youth Ranger Indonesia District Sumatera 2
+- 👥 **2025–2026** — HR Coordinator, Youth Ranger Indonesia District Sumatera 2
 - 🔬 **2025** — Research contributor (digital marketing & web dev) for the Kemplang Bakar Harun MSME branding site, Pengabdian Dosen Polsri
-- 🧑‍💻 **2025** — Web Developer Intern (Fullstack), Public Relations Division
+- 🧑‍💻 **2025** — Web Developer Intern, PLN Icon Plus Sumbagsel (asset design and public relations website)
 
 ---
 
@@ -106,7 +106,7 @@ A Diploma III Computer Engineering student at <b>Sriwijaya State Polytechnic</b>
 
 **Sriwijaya State Polytechnic**
 
-Diploma III in Computer Engineering
+Diploma III in Computer Engineering — Graduated August 2026 (GPA: 3.66)
 
 📅 2023 – 2026
 
