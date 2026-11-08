@@ -1,7 +1,19 @@
-<p align="center"><a href="https://raffli-dev.vercel.app"><img src="./profile/hero.svg" width="100%" alt="Al-man Raffli Saputra — Code. Data. A little design." /></a></p>
+<table>
+<tr>
+<td width="64%" valign="middle">
+<sub>AL-MAN RAFFLI SAPUTRA / DIGITAL PORTFOLIO</sub>
+<h1>Code. Data.<br />A little design.</h1>
+<p>Building useful digital experiences<br />with code, curiosity, and thoughtful interfaces.</p>
+<p><strong>Web Developer · Data Analyst</strong><br /><sub>Palembang, Indonesia</sub></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<a href="https://raffli-dev.vercel.app"><img src="https://raw.githubusercontent.com/Darren0099/Raffli-dev/main/public/img/im1.png" width="320" alt="Al-man Raffli Saputra — original portrait from my portfolio hero" /></a>
+</td>
+</tr>
+</table>
 
 <p align="center">
-<a href="#about">About</a> &nbsp; / &nbsp; <a href="#work">Selected work</a> &nbsp; / &nbsp; <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp; <a href="#journey">Journey</a> &nbsp; / &nbsp; <a href="#learning">Certificates</a> &nbsp; / &nbsp; <a href="#connect">Connect</a>
+<a href="#about">About</a> &nbsp; / &nbsp; <a href="#work">Selected work</a> &nbsp; / &nbsp; <a href="#toolkit">Toolkit</a> &nbsp; / &nbsp; <a href="#journey">Journey</a> &nbsp; / &nbsp; <a href="#learning">Certificates</a> &nbsp; / &nbsp; <a href="#analytics">Analytics</a> &nbsp; / &nbsp; <a href="#connect">Connect</a>
 </p>
 
 <a id="about"></a>
@@ -52,22 +64,6 @@ Based in **Palembang, Indonesia**. A **Diploma III Computer Engineering graduate
 <a href="https://github.com/Darren0099/global-electronics-retailer-analysis">View analysis ↗</a>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/Darren0099/Mobius"><img src="https://raw.githubusercontent.com/Darren0099/Raffli-dev/main/public/img/mobius-cover.svg" width="100%" alt="Mobius portfolio preview" /></a>
-<h3>Mobius</h3>
-<p>Windows desktop island and File Studio. Source prototype in development; artwork is a branding concept.</p>
-<p><sub>Python · PySide6 · Qt Widgets · PyMuPDF</sub></p>
-<a href="https://github.com/Darren0099/Mobius">Explore source ↗</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://plniconnetbangkabelitung.ct.ws/"><img src="https://raw.githubusercontent.com/Darren0099/Raffli-dev/main/public/img/ca4.png" width="100%" alt="PLN Iconnet Article Portal portfolio preview" /></a>
-<h3>PLN Iconnet Article Portal</h3>
-<p>Article management and public-facing news portal built for the PLN Icon Plus internship project.</p>
-<p><sub>PHP · MySQL / MariaDB · HTML · CSS</sub></p>
-<a href="https://plniconnetbangkabelitung.ct.ws/">Live project ↗</a> · <a href="https://github.com/Darren0099/plniconnetbangkabelitung">Source</a>
-</td>
-</tr>
 </table>
 
 [All project case studies ↗](https://raffli-dev.vercel.app/projects) · [Graphic design archive ↗](https://raffli-dev.vercel.app/graphic-design)
@@ -75,15 +71,18 @@ Based in **Palembang, Indonesia**. A **Diploma III Computer Engineering graduate
 ---
 
 <a id="toolkit"></a>
+<sub>03 / TECHNICAL EXPERTISE</sub>
+
 ## My toolkit
 
-| Area | Technologies & practice |
-| :--- | :--- |
-| **Web & interfaces** | React · Next.js · SvelteKit · TypeScript · JavaScript · HTML · CSS · Tailwind CSS |
-| **Data & analysis** | Python · Pandas · SQL · DuckDB-Wasm · Matplotlib · Seaborn · Excel · Looker Studio |
-| **Applications & delivery** | PHP · MySQL · PySide6 · Git · GitHub · Vercel |
-| **Visual design** | Figma · Canva · Brand identity · Design systems · Wireframing |
-| **People & operations** | Volunteer coordination · Recruitment · HR programs · Community communications |
+<p align="center"><img src="./profile/toolkit.gif" width="100%" alt="Two rows of React, Python, Next.js, PHP, TypeScript, MySQL, Svelte, Git, HTML5, Pandas, CSS, DuckDB, Tailwind CSS, JavaScript, Figma, and Vercel logos scrolling from right to left" /></p>
+
+<details>
+<summary>View tools as text</summary>
+
+React · Python · Next.js · PHP · TypeScript · MySQL · Svelte · Git · HTML5 · Pandas · CSS · DuckDB · Tailwind CSS · JavaScript · Figma · Vercel
+
+</details>
 
 ---
 
@@ -92,14 +91,11 @@ Based in **Palembang, Indonesia**. A **Diploma III Computer Engineering graduate
 
 | When | Experience | Contribution |
 | :--- | :--- | :--- |
-| **2026** | Graphic Designer · YRI Pusat | Content and design for Kawan YRI, Operation Division. |
 | **2025** | Web Developer Intern · PLN Icon Plus Sumbagsel | Article management and public information website. |
-| **2025** | HR Lead · YRI District Sumatera 2 | HR programs and volunteer coordination. |
 | **2025** | Speaker · GDSC POLSRI | Study Jam on Basic CSS Animation. |
-| **2025** | Research contributor · Polsri community service | Website branding and digital marketing for Kemplang Bakar Harun. |
+| **2025** | Research contributor · Polsri community service | Developed the branding website for Kemplang Bakar Harun. |
 | **2024** | Junior Full Stack Developer · YRI Sumsel | Internal organizational web applications. |
 | **2024** | Web Volunteer · VALTER V | Website development and functionality testing. |
-| **2023** | Head of Graphic Design · YRI Sumsel | Regional logo and visual communications. |
 
 **Milestones:** KMIPN VI E-Government finalist (2024) · IT Fest Web Design finalist (2024) · KMIPN VII participant and project developer (2025).
 
@@ -109,20 +105,20 @@ Based in **Palembang, Indonesia**. A **Diploma III Computer Engineering graduate
 ## Learning, with a paper trail
 <sub>SELECTED CERTIFICATES & A CATEGORIZED LEARNING ARCHIVE.</sub>
 
-These cards summarize entries in my portfolio; they are custom presentation cards, not reproductions of issuer certificates. Each link below is labeled by its destination.
+Selected learning highlights. Click a card to open its credential or supporting record.
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://credmark.ai/badge/CM-2602-JSI_PT0"><img src="./profile/credential-1.svg" width="100%" alt="PHP Level 3 Certification (Top 50%) — CredMark" /></a><br /><a href="https://credmark.ai/badge/CM-2602-JSI_PT0">Credential page ↗</a></td>
-<td width="50%" valign="top"><a href="https://www.dicoding.com/certificates/6RPNYMRDRZ2M"><img src="./profile/credential-2.svg" width="100%" alt="Belajar Back-End Pemula dengan JavaScript — Dicoding Indonesia" /></a><br /><a href="https://www.dicoding.com/certificates/6RPNYMRDRZ2M">Credential page ↗</a></td>
+<td width="50%" valign="top"><a href="https://credmark.ai/badge/CM-2602-JSI_PT0"><img src="./profile/credential-1.svg" width="100%" alt="PHP Level 3 Certification (Top 50%) — CredMark" /></a></td>
+<td width="50%" valign="top"><a href="https://www.dicoding.com/certificates/6RPNYMRDRZ2M"><img src="./profile/credential-2.svg" width="100%" alt="Belajar Back-End Pemula dengan JavaScript — Dicoding Indonesia" /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.linkedin.com/in/al-man-raffli/overlay/Certifications/459758262/treasury/?profileId=ACoAAES8EUoB9sYMOwAcjrdT5vVNOaW1yZucIGg&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQGQl1eJQS9Gm6iF1rI8rIw%3D%3D"><img src="./profile/credential-5.svg" width="100%" alt="Bootcamp Data Analyst (Excel, SQL, Python, &amp; Looker Studio) — KarirNex" /></a><br /><a href="https://www.linkedin.com/in/al-man-raffli/overlay/Certifications/459758262/treasury/?profileId=ACoAAES8EUoB9sYMOwAcjrdT5vVNOaW1yZucIGg&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQGQl1eJQS9Gm6iF1rI8rIw%3D%3D">Certificate on LinkedIn ↗</a></td>
-<td width="50%" valign="top"><a href="https://www.credly.com/org/cisco/badge/css-essentials"><img src="./profile/credential-30.svg" width="100%" alt="CSS Essentials — Cisco Networking Academy" /></a><br /><a href="https://www.credly.com/org/cisco/badge/css-essentials">Issuer badge information ↗</a></td>
+<td width="50%" valign="top"><a href="https://www.linkedin.com/in/al-man-raffli/overlay/Certifications/459758262/treasury/?profileId=ACoAAES8EUoB9sYMOwAcjrdT5vVNOaW1yZucIGg&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQGQl1eJQS9Gm6iF1rI8rIw%3D%3D"><img src="./profile/credential-5.svg" width="100%" alt="Bootcamp Data Analyst (Excel, SQL, Python, &amp; Looker Studio) — KarirNex" /></a></td>
+<td width="50%" valign="top"><a href="https://www.credly.com/org/cisco/badge/css-essentials"><img src="./profile/credential-30.svg" width="100%" alt="CSS Essentials — Cisco Networking Academy" /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://www.linkedin.com/in/al-man-raffli/overlay/Certifications/679093998/treasury/?profileId=ACoAAES8EUoB9sYMOwAcjrdT5vVNOaW1yZucIGg&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtbSme3YATFGu2VYqNJdpQA%3D%3D"><img src="./profile/credential-19.svg" width="100%" alt="Cyber Defence Strategies — IT Masters (CSU)" /></a><br /><a href="https://www.linkedin.com/in/al-man-raffli/overlay/Certifications/679093998/treasury/?profileId=ACoAAES8EUoB9sYMOwAcjrdT5vVNOaW1yZucIGg&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtbSme3YATFGu2VYqNJdpQA%3D%3D">Certificate on LinkedIn ↗</a></td>
-<td width="50%" valign="top"><a href="https://www.linkedin.com/in/al-man-raffli/overlay/Certifications/1998697254/treasury/?profileId=ACoAAES8EUoB9sYMOwAcjrdT5vVNOaW1yZucIGg&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtbSme3YATFGu2VYqNJdpQA%3D%3D"><img src="./profile/credential-17.svg" width="100%" alt="Short Class UI/UX Design: Design System &amp; Wireframing — MySkill" /></a><br /><a href="https://www.linkedin.com/in/al-man-raffli/overlay/Certifications/1998697254/treasury/?profileId=ACoAAES8EUoB9sYMOwAcjrdT5vVNOaW1yZucIGg&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtbSme3YATFGu2VYqNJdpQA%3D%3D">Certificate on LinkedIn ↗</a></td>
+<td width="50%" valign="top"><a href="https://www.linkedin.com/in/al-man-raffli/overlay/Certifications/679093998/treasury/?profileId=ACoAAES8EUoB9sYMOwAcjrdT5vVNOaW1yZucIGg&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtbSme3YATFGu2VYqNJdpQA%3D%3D"><img src="./profile/credential-19.svg" width="100%" alt="Cyber Defence Strategies — IT Masters (CSU)" /></a></td>
+<td width="50%" valign="top"><a href="https://www.linkedin.com/in/al-man-raffli/overlay/Certifications/1998697254/treasury/?profileId=ACoAAES8EUoB9sYMOwAcjrdT5vVNOaW1yZucIGg&amp;lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtbSme3YATFGu2VYqNJdpQA%3D%3D"><img src="./profile/credential-17.svg" width="100%" alt="Short Class UI/UX Design: Design System &amp; Wireframing — MySkill" /></a></td>
 </tr>
 </table>
 
@@ -213,11 +209,20 @@ These cards summarize entries in my portfolio; they are custom presentation card
 
 ---
 
+<a id="analytics"></a>
+## GitHub analytics
+
+<p align="center">
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Darren0099&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F7F2EB&amp;title_color=050505&amp;text_color=444444&amp;icon_color=FE5000&amp;ring_color=FE5000" alt="GitHub statistics for Darren0099" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Darren0099&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=F7F2EB&amp;title_color=050505&amp;text_color=444444" alt="Most used languages in Darren0099's public repositories" />
+</p>
+
+---
+
 <a id="connect"></a>
-## Let's build the next thing.
-
-A useful website. A clearer dashboard. A visual identity with purpose.
-
-**[Portfolio ↗](https://raffli-dev.vercel.app) &nbsp; · &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/al-man-raffli) &nbsp; · &nbsp; [Email ↗](mailto:almanraffli1@gmail.com)**
-
-<sub>AL-MAN RAFFLI SAPUTRA / PALEMBANG, INDONESIA</sub>
+<p align="center">
+<a href="https://raffli-dev.vercel.app" title="Portfolio"><img src="./profile/portfolio.svg" width="80" height="60" alt="Porto — visit my portfolio" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/al-man-raffli" title="LinkedIn"><img src="./profile/linkedin.svg" width="60" height="60" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:almanraffli1@gmail.com" title="Email"><img src="./profile/email.svg" width="60" height="60" alt="Email Raffli" /></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/users/al-man-raffli-saputra/badges" title="Credly badges"><img src="./profile/credly.svg" width="60" height="60" alt="Credly — Al-man Raffli Saputra badges" /></a>
+</p>
