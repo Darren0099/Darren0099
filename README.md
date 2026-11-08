@@ -265,23 +265,20 @@ A few certificates I keep close to the work. Click a card to open its credential
 ---
 
 <a id="analytics"></a>
-## Repository pulse
+## GitHub analytics
 
-<sub>LIVE ACTIVITY CARDS · VALUES DEPEND ON THIRD-PARTY DATA PROVIDERS.</sub>
-
-<p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Darren0099&amp;show_icons=true&amp;hide_border=true&amp;bg_color=171A1F&amp;title_color=F5F2EA&amp;text_color=B7BEC8&amp;icon_color=FE5000&amp;ring_color=FE5000" alt="Live GitHub repository and commit statistics for Darren0099" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Darren0099&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=171A1F&amp;title_color=F5F2EA&amp;text_color=B7BEC8" alt="Live language distribution across Darren0099 public repositories" />
-</p>
-
-<details>
-<summary>View contribution streak</summary>
+<sub>PUBLIC REPOSITORIES · LANGUAGES · CONTRIBUTION ACTIVITY</sub>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Darren0099&amp;hide_border=true&amp;background=171A1F&amp;ring=FE5000&amp;fire=FE5000&amp;currStreakNum=F5F2EA&amp;sideNums=F5F2EA&amp;currStreakLabel=B7BEC8&amp;sideLabels=B7BEC8&amp;dates=B7BEC8" width="75%" alt="Live total contributions and GitHub streaks" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Darren0099&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F0F6FC&amp;text_color=AEB7C2&amp;icon_color=FE5000&amp;ring_color=FE5000" alt="Live GitHub repository and commit statistics for Darren0099" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Darren0099&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F0F6FC&amp;text_color=AEB7C2" alt="Live most-used languages across Darren0099's public repositories" />
 </p>
 
-</details>
+<p align="center">
+<a href="https://github.com/Darren0099"><img src="https://streak-stats.demolab.com?user=Darren0099&amp;hide_border=true&amp;background=0D1117&amp;ring=FE5000&amp;fire=FE5000&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC&amp;currStreakLabel=AEB7C2&amp;sideLabels=AEB7C2&amp;dates=AEB7C2" width="74%" alt="Darren0099 live Total Contributions, current streak and longest streak" /></a>
+</p>
+
+<p align="center"><sub>Total Contributions, current streak, and longest streak are generated dynamically from available GitHub contribution data. Numbers may update as activity is indexed.</sub></p>
 
 ---
 
