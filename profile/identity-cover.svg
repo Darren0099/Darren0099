@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title desc">
+<title id="title">Raffli — developer field notes</title>
+<desc id="desc">Original editorial cover featuring large RAFFLI wordmark, orange geometric illustration, and a compact digital maker identity.</desc>
+<rect width="1200" height="370" fill="#171A1F"/>
+<rect x="0" y="0" width="1200" height="8" fill="#FE5000"/>
+<rect x="54" y="43" width="22" height="7" rx="3" fill="#FE5000"/>
+<text x="88" y="51" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2" fill="#F5F2EA">AL-MAN RAFFLI SAPUTRA</text>
+<text x="1140" y="51" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2.5" fill="#A8AEB9">PORTFOLIO / 2026</text>
+<path d="M57 79 H1143" stroke="#40454C" stroke-width="1"/>
+<text x="49" y="219" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="150" font-weight="900" letter-spacing="-10" fill="#F5F2EA">RAFFLI</text>
+<text x="623" y="217" font-family="Arial Black,Arial,Helvetica,sans-serif" font-size="156" font-weight="900" fill="#FE5000">.</text>
+<text x="61" y="264" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="600" letter-spacing="5" fill="#B7BEC8">WEB SYSTEMS  /  DATA  /  VISUAL DESIGN</text>
+<path d="M57 301 H702" stroke="#575C62" stroke-width="1"/>
+<text x="60" y="331" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="1" fill="#F5F2EA">BUILDING THINGS THAT MAKE SENSE.</text>
+<g transform="translate(839 108)">
+<rect x="4" y="9" width="259" height="191" rx="3" fill="#262B30" stroke="#50545C" stroke-width="2"/>
+<rect x="21" y="29" width="259" height="191" rx="3" fill="none" stroke="#FE5000" stroke-width="3"/>
+<path d="M27 83H277 M27 135H277 M102 35V214 M188 35V214" stroke="#4B4F56" stroke-width="1.1"/>
+<rect x="102" y="83" width="86" height="52" fill="#FE5000"/>
+<path d="M64 58 l-14 20 14 20 M225 58 l14 20 -14 20 M165 160 l-20 35" stroke="#F5F2EA" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<circle cx="239" cy="160" r="15" fill="#FE5000"/>
+<circle cx="64" cy="175" r="7" fill="#F5F2EA"/>
+</g>
+</svg>
