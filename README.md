@@ -1,13 +1,14 @@
 <table>
 <tr>
-<td width="64%" valign="middle">
+<td width="50%" valign="middle">
 <sub>AL-MAN RAFFLI SAPUTRA / DIGITAL PORTFOLIO</sub>
-<h1>Code. Data.<br />A little design.</h1>
-<p>Building useful digital experiences<br />with code, curiosity, and thoughtful interfaces.</p>
-<p><strong>Web Developer · Data Analyst</strong><br /><sub>Palembang, Indonesia</sub></p>
+<h1>Code. Data.<br/>A little design.</h1>
+<p>Building useful digital experiences with code, curiosity, and thoughtful interfaces.</p>
+<p><img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=650&amp;size=22&amp;duration=2400&amp;pause=1100&amp;color=FE5000&amp;width=340&amp;height=42&amp;vCenter=true&amp;lines=Web+Developer;Frontend+Developer;Data+Analyst;Graphic+Designer" alt="Typing animation: Web Developer, Frontend Developer, Data Analyst, Graphic Designer" /></p>
+<p><sub>Palembang, Indonesia</sub></p>
 </td>
-<td width="36%" valign="middle" align="center">
-<a href="https://raffli-dev.vercel.app"><img src="https://raw.githubusercontent.com/Darren0099/Raffli-dev/main/public/img/im1.png" width="320" alt="Al-man Raffli Saputra — original portrait from my portfolio hero" /></a>
+<td width="50%" valign="middle" align="center">
+<a href="https://raffli-dev.vercel.app/"><img src="./profile/hero-portrait.svg" width="100%" alt="Al-man Raffli Saputra — original portfolio portrait with minimal orange frame" /></a>
 </td>
 </tr>
 </table>
@@ -19,7 +20,7 @@
 <a id="about"></a>
 ## Hello, I'm Raffli.
 
-I turn complex needs into useful digital experiences: responsive websites, practical analytics, and clear visual communication. My work connects **web development, data analysis, graphic design, and community operations**.
+I build useful web experiences, from **responsive interfaces and content-management systems** to interactive dashboards that make information easier to explore. My focus is turning real needs into working products through code.
 
 Based in **Palembang, Indonesia**. A **Diploma III Computer Engineering graduate of Politeknik Negeri Sriwijaya**, with a GPA of **3.66 / 4.00** (2023–2026).
 
@@ -75,12 +76,12 @@ Based in **Palembang, Indonesia**. A **Diploma III Computer Engineering graduate
 
 ## My toolkit
 
-<p align="center"><img src="./profile/toolkit.gif" width="100%" alt="Two rows of React, Python, Next.js, PHP, TypeScript, MySQL, Svelte, Git, HTML5, Pandas, CSS, DuckDB, Tailwind CSS, JavaScript, Figma, and Vercel logos scrolling from right to left" /></p>
+<p align="center"><img src="./profile/toolkit-marquee.svg" width="100%" alt="Two transparent rows of colorful technology logos scrolling continuously from right to left, without frontend or backend categories" /></p>
 
 <details>
 <summary>View tools as text</summary>
 
-React · Python · Next.js · PHP · TypeScript · MySQL · Svelte · Git · HTML5 · Pandas · CSS · DuckDB · Tailwind CSS · JavaScript · Figma · Vercel
+JavaScript · React · PHP · TypeScript · Svelte · Next.js · Python · Git · Figma · Tailwind CSS · MySQL · GitHub · HTML5 · CSS3 · VS Code · Vercel · DuckDB · Pandas
 
 </details>
 
@@ -89,15 +90,18 @@ React · Python · Next.js · PHP · TypeScript · MySQL · Svelte · Git · HTM
 <a id="journey"></a>
 ## The journey so far
 
-| When | Experience | Contribution |
-| :--- | :--- | :--- |
-| **2025** | Web Developer Intern · PLN Icon Plus Sumbagsel | Article management and public information website. |
-| **2025** | Speaker · GDSC POLSRI | Study Jam on Basic CSS Animation. |
-| **2025** | Research contributor · Polsri community service | Developed the branding website for Kemplang Bakar Harun. |
-| **2024** | Junior Full Stack Developer · YRI Sumsel | Internal organizational web applications. |
-| **2024** | Web Volunteer · VALTER V | Website development and functionality testing. |
+A timeline centered on coding, web products, and practical development experience.
 
-**Milestones:** KMIPN VI E-Government finalist (2024) · IT Fest Web Design finalist (2024) · KMIPN VII participant and project developer (2025).
+| When | Web & coding experience | What I built / contributed |
+| :--- | :--- | :--- |
+| **2026** | Independent projects · KleinData & developer portfolio | Built and iterated on an interactive analytics workspace and a Next.js portfolio with detailed project case studies. |
+| **2025** | Website & article management · PLN Icon Plus Sumbagsel | Developed a PHP/MySQL article-management application with search, publishing workflows, and multilingual content. |
+| **2025** | Frontend study jam · GDSC POLSRI | Shared practical CSS animation techniques and frontend implementation concepts. |
+| **2025** | Web development · Polsri community service | Contributed to a branding website for Kemplang Bakar Harun. |
+| **2024** | Junior Full Stack Developer · YRI Sumsel | Worked on internal web applications and dashboard workflows. |
+| **2024** | Web development · VALTER V and KMIPN VI | Contributed to event website development/testing and helped build the E-Government finalist project Palembang Go Vacation. |
+
+**Selected milestones:** KMIPN VI E-Government finalist (2024) · IT Fest Web Design finalist (2024) · KMIPN VII project participant (2025).
 
 ---
 
@@ -105,7 +109,7 @@ React · Python · Next.js · PHP · TypeScript · MySQL · Svelte · Git · HTM
 ## Learning, with a paper trail
 <sub>SELECTED CERTIFICATES & A CATEGORIZED LEARNING ARCHIVE.</sub>
 
-Selected learning highlights. Click a card to open its credential or supporting record.
+Select any card to open the corresponding credential or supporting record directly.
 
 <table>
 <tr>
@@ -205,24 +209,38 @@ Selected learning highlights. Click a card to open its credential or supporting 
 
 <sub>Cisco links currently lead to issuer badge descriptions, not personal verification pages. LinkedIn records may require sign-in. The archive includes courses, certifications, and participation or achievement records.</sub>
 
-[Explore the portfolio ↗](https://raffli-dev.vercel.app) · [LinkedIn certificates ↗](https://www.linkedin.com/in/al-man-raffli/details/certifications/)
 
 ---
 
 <a id="analytics"></a>
 ## GitHub analytics
 
+<sub>PUBLIC REPOSITORIES · LANGUAGES · CONTRIBUTION ACTIVITY</sub>
+
 <p align="center">
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Darren0099&amp;show_icons=true&amp;hide_border=true&amp;bg_color=F7F2EB&amp;title_color=050505&amp;text_color=444444&amp;icon_color=FE5000&amp;ring_color=FE5000" alt="GitHub statistics for Darren0099" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Darren0099&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=F7F2EB&amp;title_color=050505&amp;text_color=444444" alt="Most used languages in Darren0099's public repositories" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Darren0099&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F0F6FC&amp;text_color=AEB7C2&amp;icon_color=FE5000&amp;ring_color=FE5000" alt="Live GitHub repository and commit statistics for Darren0099" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Darren0099&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F0F6FC&amp;text_color=AEB7C2" alt="Live most-used languages across Darren0099's public repositories" />
 </p>
+
+<p align="center">
+<a href="https://github.com/Darren0099"><img src="https://streak-stats.demolab.com?user=Darren0099&amp;hide_border=true&amp;background=0D1117&amp;ring=FE5000&amp;fire=FE5000&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC&amp;currStreakLabel=AEB7C2&amp;sideLabels=AEB7C2&amp;dates=AEB7C2" width="74%" alt="Darren0099 live Total Contributions, current streak and longest streak" /></a>
+</p>
+
+<p align="center"><sub>Total Contributions, current streak, and longest streak are generated dynamically from available GitHub contribution data. Numbers may update as activity is indexed.</sub></p>
 
 ---
 
 <a id="connect"></a>
+## Let's build the next thing.
+
+A useful website. A clearer dashboard. A visual identity with purpose.
+
 <p align="center">
-<a href="https://raffli-dev.vercel.app" title="Portfolio"><img src="./profile/portfolio.svg" width="80" height="60" alt="Porto — visit my portfolio" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/al-man-raffli" title="LinkedIn"><img src="./profile/linkedin.svg" width="60" height="60" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:almanraffli1@gmail.com" title="Email"><img src="./profile/email.svg" width="60" height="60" alt="Email Raffli" /></a>&nbsp;&nbsp;
-<a href="https://www.credly.com/users/al-man-raffli-saputra/badges" title="Credly badges"><img src="./profile/credly.svg" width="60" height="60" alt="Credly — Al-man Raffli Saputra badges" /></a>
+<a href="https://raffli-dev.vercel.app/" title="Portfolio"><img src="./profile/portfolio.svg" width="62" height="62" alt="Portfolio website" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/al-man-raffli" title="LinkedIn"><img src="./profile/linkedin.svg" width="62" height="62" alt="LinkedIn profile" /></a>&nbsp;&nbsp;
+<a href="mailto:almanraffli1@gmail.com" title="Email"><img src="./profile/email.svg" width="62" height="62" alt="Send me an email" /></a>&nbsp;&nbsp;
+<a href="https://www.credly.com/users/al-man-raffli-saputra/badges" title="Credly verified badges"><img src="./profile/credly.svg" width="62" height="62" alt="Credly badges" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Darren0099" title="GitHub"><img src="./profile/github.svg" width="62" height="62" alt="GitHub projects" /></a>
 </p>
+
+<p align="center"><sub>AL-MAN RAFFLI SAPUTRA / PALEMBANG, INDONESIA</sub></p>
